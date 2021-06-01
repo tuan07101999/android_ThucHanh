@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448869191119",
+    "project_id": "onthipass2",
+    "storage_bucket": "onthipass2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448869191119:android:342c2e6fc01a7a99e196ba",
+        "android_client_info": {
+          "package_name": "com.example.nguyenviettuan_thithu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448869191119-29too5q5dab8rnk8drdm0ptg2mrcuuev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzlAqboLjSg6hdo5Mw6iQwaSCZPKi0jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448869191119-29too5q5dab8rnk8drdm0ptg2mrcuuev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
